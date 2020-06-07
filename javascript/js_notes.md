@@ -1,58 +1,67 @@
 Variables
 =======
+```javascript
 const foo = 2;
 let bar = 23;
-
+```
 
 Strings
 ======
+```javascript
 const bar = 3
 const foo = `${bar} = 
 
 3`
+```
 
 Functions
 ========
+```javascript
 function add(num,1 num2) {
     const result = num1 + num2;
 }
-
+```
 
 Objects
 =======
+```javascript
 const entry  {
     operation: 'ADD',
     operand1: 1,
     operand2: 40
 }
-
+```
 
 HTML
 ======
+```javascript
 <script src="assets/scripts/foo.js" async></script>
+```
 Doesn't parse until the JS file has been entirely downloaded. 
 Executes asap without order if there are subsequent scripts.
 Good for independent scripts
 
+```javascript
 <script src="assets/scripts/foo.js" defer></script>
+```
 Doesn't parse until HTML has been entirely parsed
 Garauntees order
 
-Inlined scripts
-Executed immediately. 
-Generally not a good practice.
-If external are referenced, the source trumps the inlined.
+- Inlined scripts
+- Executed immediately. 
+- Generally not a good practice.
+- If external are referenced, the source trumps the inlined.
 
 
 Debug
 ======
 Open using incognito mode to avoid extensions running
 
-
 Click Listeners
 ===========
+```javascript
 addBtn.addEventListener('click', foo());
-
+```
 
 Links
 =====
