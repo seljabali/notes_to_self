@@ -20,6 +20,8 @@ JMS
 
 [Kotlin Technologies](https://kotlinlang.org/docs/reference/server-overview.html)
 
+[Deno](http://deno.land/)
+
 ## Gaming
 
 [LÖVE - 2D games in Lua](http://love2d.org)
