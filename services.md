@@ -46,6 +46,9 @@
 ## Site Stack Lookup
 - [Built With](https://builtwith.com)
 
+## Site Worth
+- [Worth Of Web](https://www.worthofweb.com/website-value/)
+
 ## Communication
 - [Open Signal](https://signal.org)
 
