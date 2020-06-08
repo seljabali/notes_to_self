@@ -1,30 +1,14 @@
-## Backend
+## JS Frameworks
+- [BackBone](http://backbonejs.org)
+- [Celery](http://www.celeryproject.org)
+- [Deno](http://deno.land/)
 
-[BackBone](http://backbonejs.org)
-
-[Celery - asynchronous task queue](http://www.celeryproject.org)
-
-JBoss
-
-Glassfish
-
-back-end using JAX-RS
-
-CDI
-
-JPA
-
-Bean Validation
-
-JMS
-
-[Kotlin Technologies](https://kotlinlang.org/docs/reference/server-overview.html)
-
-[Deno](http://deno.land/)
-
-## Gaming
-
-[LÖVE - 2D games in Lua](http://love2d.org)
+## JVM Frameworks
+- [Micronaut](https://micronaut.io/)
+- [Ktor](http://ktor.io/)
+- [JBoss](https://www.jboss.org)
+- [Glassfish](https://javaee.github.io/glassfish/)
+- [Kotlin Technologies](https://kotlinlang.org/docs/reference/server-overview.html)
 
 ## Serverless
 - Adalo
