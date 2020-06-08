@@ -1,6 +1,9 @@
 ## After Effects
 - [Tutorials](https://www.videocopilot.net)
 
+## Gaming
+- [LÖVE](http://love2d.org): 2D games in Lua
+
 ## Learning:
 - [Learn Y in X](https://learnxinyminutes.com/docs/kotlin/)
 
