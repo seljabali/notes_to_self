@@ -24,6 +24,7 @@
 - [Mobile Jazz](http://mobilejazz.com/): remote friendly
 - [Reaktor](https://www.reaktor.com)
 - [Rootstrap](https://www.rootstrap.com)
+- [Ustwo](https://www.ustwo.com/)
 - [YML](https://ymedialabs.com/x)
 - [Best of Mobile](http://www.businessofapps.com/guide/app-development-companies/)
 
