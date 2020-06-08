@@ -18,6 +18,8 @@
 - [Relay](https://github.com/expede/awesome-relay#readme): FB framework providing data-fetching functionality for React apps
 - [Redux](https://redux.js.org)
 - [Cycle](https://cycle.js.org): Functional & Reactive framework
+- [Svelte](https://github.com/sveltejs/svelte)
+- [Polymer Project](https://www.polymer-project.org)
 
 ## Examples
 - [React, TypeScript & MobX](https://github.com/eugenkiss/7guis-React-TypeScript-MobX)
