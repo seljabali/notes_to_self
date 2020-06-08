@@ -90,6 +90,7 @@
 - [Migration](https://docs.objectbox.io/advanced/data-model-updates#objectbox-data-model-updates)
 
 ## Dagger
+- [Simple Dagger Explanation](https://stackoverflow.com/questions/48948687/difference-between-module-and-component-in-dagger2)
 - [Dagger 2](https://guides.codepath.com/android/Dependency-Injection-with-Dagger-2)
 - [Dagger 2 ex](https://github.com/codepath/dagger2-example)
 - [Dagger/Retro/MVP](https://android.jlelse.eu/a-simple-android-apps-with-mvp-dagger-rxjava-and-retrofit-4edb214a66d7)
