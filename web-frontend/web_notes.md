@@ -7,9 +7,6 @@
 - [Hugo](https://gohugo.io/getting-started/quick-start/): fastest framework for building websites
 - [Flux](http://facebook.github.io/flux/)
 
-## IDEs
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-
 ## Library
 - [MobX](https://mobx.js.org): State management
 - [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): CSS layouting of page
