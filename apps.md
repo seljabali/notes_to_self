@@ -44,8 +44,8 @@
 - [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
   - [Manual Download](https://developer.apple.com/download/more/)
   - [QuickType](https://github.com/quicktype/quicktype-xcode): Auto-generate Json parsing code
-- [AppCode](https://www.jetbrains.com/objc/): A smarter IDE for iOS/macOS development 
-- [Visual Studio](https://code.visualstudio.com): Good for web development.
+- [AppCode](https://www.jetbrains.com/objc/): iOS/macOS development 
+- [Visual Studio Code](https://code.visualstudio.com): Web development.
 
 ## Languages
 - [Java](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
