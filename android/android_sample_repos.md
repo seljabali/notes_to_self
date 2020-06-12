@@ -13,13 +13,15 @@
 - [Buddy Search](https://github.com/ihorvitruk/buddysearch): MVP
 
 ## Apps
-- [Plaid](https://github.com/android/plaid)
-- [Sunflower](https://github.com/android/sunflower)
-- [Java-Time](https://github.com/Vichy97/Java-Time)
+- [Plaid by Android](https://github.com/android/plaid)
+- [Sunflower by Android](https://github.com/android/sunflower)
+- [Java-Time by Vichy](https://github.com/Vichy97/Java-Time)
 - [Art Collector](https://github.com/ataulm/art-collector)
 - [Instant Weather](https://github.com/mayokunthefirst/Instant-Weather)
-- [Disney Motions](https://github.com/skydoves/disneymotions)
-- [Marvel Heroes](https://github.com/skydoves/MarvelHeroes)
+- [Disney Motions by SkyDoves](https://github.com/skydoves/disneymotions)
+- [Marvel Heroes by SkyDoves](https://github.com/skydoves/MarvelHeroes)
+- [MusicPlayer by Zara](https://github.com/ZahraHeydari/MusicPlayer)
+- [Recipe by Zara](https://github.com/ZahraHeydari/Android-MVVM-RX3-Dagger2-NavComponent)
 
 ## BottomBar
 - [BottomAppBarBehaviour](https://github.com/firatkarababa/BottomAppBarBehaviour)
