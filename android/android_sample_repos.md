@@ -21,7 +21,7 @@
 - [Disney Motions by SkyDoves](https://github.com/skydoves/disneymotions)
 - [Marvel Heroes by SkyDoves](https://github.com/skydoves/MarvelHeroes)
 - [MusicPlayer by Zara](https://github.com/ZahraHeydari/MusicPlayer)
-- [Recipe by Zara](https://github.com/ZahraHeydari/Android-MVVM-RX3-Dagger2-NavComponent)
+- [Recipes by Zara](https://github.com/ZahraHeydari/Android-MVVM-RX3-Dagger2-NavComponent)
 
 ## BottomBar
 - [BottomAppBarBehaviour](https://github.com/firatkarababa/BottomAppBarBehaviour)
