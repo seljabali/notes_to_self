@@ -8,4 +8,5 @@
 ### Resources
 - [Gitter](https://gitter.im/micronautfw/questions?source=orgpage)
 - [Documentation](https://micronaut.io/documentation.html)
-- [Guide](https://docs.micronaut.io/snapshot/guide/index.html#introduction)
+- [Walkthroughs](https://guides.micronaut.io)
+- [API Guide](https://docs.micronaut.io/snapshot/guide/index.html#introduction)
