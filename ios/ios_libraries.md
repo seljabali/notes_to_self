@@ -204,6 +204,9 @@
   - [Macaw](https://github.com/exyte/macaw)
   - [SwiftSVG](https://github.com/mchoe/SwiftSVG)
 
+- Swift
+  - [Optional API](https://github.com/sloik/OptionalAPI)
+
 - TableView:
   - [Collapsible Table](https://github.com/jeantimex/CollapsibleTableSectionViewController) , [Example](https://github.com/jeantimex/ios-swift-collapsible-table-section) ✅
   - [IG List Kit](https://github.com/Instagram/IGListKit): data-driven UICollectionView framework 
