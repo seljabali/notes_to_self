@@ -62,6 +62,9 @@ for (index in stockPrices.indices) {
 
 for ((index, element) in stockPrices.iterator().withIndex()) {
 }
+
+for stockPrices.forEachIndexed { index, element ->
+}
 ```
 
 # 5. This
