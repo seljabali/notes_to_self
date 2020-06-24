@@ -265,6 +265,7 @@
   - [Bulletin Board](https://github.com/alexaubry/BulletinBoard): Popup cards
   - [Gemini](https://github.com/shoheiyokoyama/Gemini): Funky card swiping
   - [Picture In Picture](https://github.com/malt03/PictureInPicture): Floating VC within VC
+  - [PIPKit](https://github.com/Kofktu/PIPKit): Picture in Picture
 
 - Utilities:
   - [Swifter Swift](https://github.com/SwifterSwift/SwifterSwift): Extensions boosting productivity ✅ 
