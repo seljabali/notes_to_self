@@ -12,7 +12,7 @@
 ## Audio
 - [PhonicMind](https://phonicmind.com/): Instrument/vocals isolation
 - [SongPeel](https://www.songpeel.com/): Instrument/vocals isolation
-- [Acapella Extractor](https://www.acapella-extractor.com): Free instrument/vocals isolation
+- [Acapella Extractor](https://www.acapella-extractor.com): Free instrument/vocals isolation ✅
 
 ## iOS
 - [SVG to PDF](https://cloudconvert.com/svg-to-pdf)
