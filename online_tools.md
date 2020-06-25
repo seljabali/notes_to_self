@@ -11,6 +11,7 @@
 
 ## Audio
 - [PhonicMind](https://phonicmind.com/): Instrument/Vocal isolation
+- [SongPeel](https://www.songpeel.com/): Instrument/Vocal isolation
 
 ## iOS
 - [SVG to PDF](https://cloudconvert.com/svg-to-pdf)
