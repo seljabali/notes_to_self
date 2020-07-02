@@ -153,7 +153,7 @@
 
 - Testing:
   - [Mockito](https://github.com/mockito/mockito)
-  - [Mockk](https://github.com/mockk/mockk)
+  - [Mockk](https://github.com/mockk/mockk) ✅
   - [Robolectric](https://github.com/robolectric/robolectric.github.io)
   - [Barista](https://github.com/SchibstedSpain/Barista)
 
