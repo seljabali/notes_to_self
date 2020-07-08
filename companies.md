@@ -29,7 +29,7 @@
 - [Best of Mobile](http://www.businessofapps.com/guide/app-development-companies/)
 
 ## Education
-- [Class Dojo](www.classdojo.com/jobs)
+- [Class Dojo](https://www.classdojo.com/jobs/)
 - [IXL](https://www.ixl.com/company/)
 - [Khan Academy](https://boards.greenhouse.io/khanacademy/)
 
