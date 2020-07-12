@@ -8,7 +8,7 @@
 ## Communication
 - [Open Signal](https://signal.org)
 
-## Consultin
+## Consulting
 - [Clarity](https://clarity.fm): business advice
 
 ## Deployment
