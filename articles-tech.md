@@ -42,11 +42,6 @@
 
 - [On Going Document Based](https://www.youtube.com/watch?v=W3R4pmPCXO4)
 
-## Frameless
-- [Misomir](https://dev.to/misomir/frameworkless-web-development-3n2h)
-- [Frameworkless Movement Manifesto](https://github.com/frameworkless-movement/manifesto)
-- [Frameworkless Movement](http://frameworklessmovement.org/)
-
 ## Gaming
 - [LÖVE](http://love2d.org): 2D games in Lua
 
@@ -161,6 +156,14 @@
 - [Paper Generator](https://pdos.csail.mit.edu/archive/scigen/)
 
 - [Awesome](https://github.com/sindresorhus/awesome/): Tracking every awesome project
+
+- [Frameworkless Movement - Misomir](https://dev.to/misomir/frameworkless-web-development-3n2h)
+
+- [Frameworkless Movement Manifesto](https://github.com/frameworkless-movement/manifesto)
+
+- [Frameworkless Movement](http://frameworklessmovement.org/)
+
+- [Hugging Face](https://huggingface.co): On a mission to solve NLP, one commit at a time.
 
 ## Python:
 - [Libraries](http://www.lleess.com/2013/03/7-python-libraries-you-should-know-about.html#.VtuYrVyDMak)
