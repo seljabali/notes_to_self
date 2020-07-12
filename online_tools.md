@@ -92,5 +92,6 @@
 ## URL Decoder/Encoder
 - [Meyerweb](https://meyerweb.com/eric/tools/dencoder/)
 
-## Video Download
-- [RipSave](https://ripsave.com)
+## Video
+- [RipSave](https://ripsave.com): Video Download
+- [invideo](https://invideo.io): Video Editing
