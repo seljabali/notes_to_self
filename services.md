@@ -8,6 +8,9 @@
 ## Communication
 - [Open Signal](https://signal.org)
 
+## Consultin
+- [Clarity](https://clarity.fm): business advice
+
 ## Deployment
 - [Netifly](https://www.netlify.com)
 - [Jenkins](https://jenkins-ci.org/)
@@ -72,3 +75,6 @@
 - [NewRelic](https://newrelic.com)
 - [Firebase](https://firebase.google.com)
 - [Segment](https://segment.com/)
+
+## Transcription
+- [Rev](https://www.rev.com)
