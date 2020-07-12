@@ -73,7 +73,14 @@
 ## Mp3 to MIDI
 - [BearAudioTool](https://www.bearaudiotool.com/mp3-to-midi)
 
-## Background Sounds
+## Resume
+- [CV Maker](https://cvmkr.com)
+- [Visual CV](https://www.visualcv.com)
+- [Resume](https://www.resume.com)
+- [Resumonk](https://www.resumonk.com)
+- [Zety](https://zety.com/resume-templates)
+
+## Sounds
 - [A Soft Murmur](https://asoftmurmur.com)
 
 ## Type faster
