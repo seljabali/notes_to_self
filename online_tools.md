@@ -1,6 +1,5 @@
-## ASCII Converter
-- [Text to ASCII](http://www.network-science.de/ascii/)
-- [Image to ASCII](https://www.text-image.com/convert/)
+## Arabic Conjugator
+- [Arabic Conjugator](http://acon.baykal.be/index.php?r3=ب&r2=ت&r1=ك&type=I&pvowel=a&ivowel=i&display=western)
 
 ## Android
 - [DP <=> PX Converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
@@ -9,29 +8,16 @@
 - [SVG to Vector Drawable](https://svg2vector.com)
 - [Nine-patch Generator](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example)
 
+## ASCII Converter
+- [Text to ASCII](http://www.network-science.de/ascii/)
+- [Image to ASCII](https://www.text-image.com/convert/)
+
 ## Audio
 - [PhonicMind](https://phonicmind.com/): Instrument/vocals isolation
 - [SongPeel](https://www.songpeel.com/): Instrument/vocals isolation
 - [Acapella Extractor](https://www.acapella-extractor.com): Free instrument/vocals isolation ✅
 
-## iOS
-- [SVG to PDF](https://cloudconvert.com/svg-to-pdf)
-- [QuickType](https://app.quicktype.io): Json -> Codable
-- [MakeAppIcon](https://makeappicon.com/): Generate iOS app icons
-- [IconGenerator](https://github.com/onmyway133/IconGenerator)
-
-## URL Decoder/Encoder
-- [Meyerweb](https://meyerweb.com/eric/tools/dencoder/)
-
-## JSON
- - [Formatter](https://jsonformatter.curiousconcept.com)
- - [QuickType](https://app.quicktype.io): Json -> Language Parse Logic
- 
-## Kotlin
- - [Kotlin Playground](https://play.kotlinlang.org)
-
-## Valid Credit Card Numbers for Testing
-
+## Credit Card Numbers for Testing
 - [GetCreditCardNumbers](http://www.getcreditcardnumbers.com)
 
 ## Colors
@@ -61,37 +47,43 @@
 - [LottieFiles](https://www.lottiefiles.com/aep): Free Lottie 
 - [Adele](https://adele.uxpin.com/): Web Frameworks
 
-## Fonts
+## Emoji
+- [Emoji's Unicode](https://apps.timwhitlock.info/emoji/tables/unicode#note1)
 
+## Fonts
 - [Calligraphr](https://www.calligraphr.com/en/)
 
-## UI Patterns
+## iOS
+- [SVG to PDF](https://cloudconvert.com/svg-to-pdf)
+- [QuickType](https://app.quicktype.io): Json -> Codable
+- [MakeAppIcon](https://makeappicon.com/): Generate iOS app icons
+- [IconGenerator](https://github.com/onmyway133/IconGenerator)
 
+## JSON
+ - [Formatter](https://jsonformatter.curiousconcept.com)
+ - [QuickType](https://app.quicktype.io): Json -> Language Parse Logic
+ 
+## Kotlin
+ - [Kotlin Playground](https://play.kotlinlang.org)
+
+## UI Patterns
 - [Mobile Patterns](https://www.mobile-patterns.com/)
 - [Pttrns](https://www.pttrns.com/?scid=38): More mobile ui patterns
 
 ## Mp3 to MIDI
 - [BearAudioTool](https://www.bearaudiotool.com/mp3-to-midi)
 
-## Arabic Conjugator
-- [Arabic Conjugator](http://acon.baykal.be/index.php?r3=ب&r2=ت&r1=ك&type=I&pvowel=a&ivowel=i&display=western)
-
 ## Background Sounds
-
 - [A Soft Murmur](https://asoftmurmur.com)
 
 ## Type faster
-
 - [Type Racer](https://play.typeracer.com)
 
-## Emoji
-
-- [Emoji's Unicode](https://apps.timwhitlock.info/emoji/tables/unicode#note1)
-
 ## Alternatives to Google
-
 - [No More Google!](https://nomoregoogle.com/)
 
-## Video Download
+## URL Decoder/Encoder
+- [Meyerweb](https://meyerweb.com/eric/tools/dencoder/)
 
+## Video Download
 - [RipSave](https://ripsave.com)
