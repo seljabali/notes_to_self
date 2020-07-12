@@ -38,6 +38,7 @@
 - [Linode](https://www.linode.com)
 - [Nearly Free Speech](https://www.nearlyfreespeech.net/)
 - [ApiGee](https://apigee.com/api-management/#/homepage)
+- [Digital Ocean](https://www.digitalocean.com)
 
 ## Networking
 - [Founder Dating](http://founderdating.com)
