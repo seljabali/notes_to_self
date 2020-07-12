@@ -42,6 +42,11 @@
 
 - [On Going Document Based](https://www.youtube.com/watch?v=W3R4pmPCXO4)
 
+## Frameless
+- [Misomir](https://dev.to/misomir/frameworkless-web-development-3n2h)
+- [Frameworkless Movement Manifesto](https://github.com/frameworkless-movement/manifesto)
+- [Frameworkless Movement](http://frameworklessmovement.org/)
+
 ## Gaming
 - [LÖVE](http://love2d.org): 2D games in Lua
 
