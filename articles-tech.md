@@ -1,8 +1,96 @@
 ## After Effects
 - [Tutorials](https://www.videocopilot.net)
 
+## Bit Sites
+
+[MeowBit](https://meowbit.com)
+
+## Bitcoin:
+- [Reddit Crypto Tips](https://www.reddit.com/r/CryptoCurrency/comments/7pgh7u/ive_made_over_500k_in_crypto_here_are_some_good/)
+
+- [Reddit BTC](https://www.reddit.com/r/btc/)
+
+- [ICOs](https://www.icocountdown.com)
+
+- [Finom](https://finom.io)
+
+## Blogs:
+- [Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+- [On $ites Online](https://www.owntheweb.net)
+
+- [Arabic Dude](https://twitter.com/abdullaharif)
+
+- [Security Dude](https://medium.com/@FredericJacobs)
+
+- [xkcd](https://what-if.xkcd.com)
+
+## Databases
+
+- [Sql vs Non-Sql](https://insights.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
+
+- [Indexing SQL](http://www.tutorialspoint.com/sqlite/sqlite_indexes.htm)
+
+- [CouchDb](http://guide.couchdb.org/editions/1/en/index.html)
+
+- [More CouchDb](http://docs.couchdb.org/en/1.6.1/contents.html)
+
+- [Android Couch](https://www.thepolyglotdeveloper.com/2015/04/create-a-couchbase-lite-todo-list-with-native-android/)
+
+- [MongoDb](https://www.youtube.com/watch?v=PIWVFUtBV1Q)
+
+- [Intro to NoSql](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+
+- [On Going Document Based](https://www.youtube.com/watch?v=W3R4pmPCXO4)
+
 ## Gaming
 - [LÖVE](http://love2d.org): 2D games in Lua
+
+## Git:
+- [oh shit git](http://ohshitgit.com)
+
+- [Undo Anything](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+
+- [Git -p](https://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/)
+
+- [Don't Pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+
+## Interviewing
+- [Career Cup](https://careercup.com)
+
+- [CodeWars](https://www.codewars.com/)
+
+- [Interview Cake](https://www.interviewcake.com)
+
+- [Hired In Tech](https://www.hiredintech.com)
+
+- [Coder Rust](https://www.educative.io/collection/5642554087309312/5679846214598656)
+
+- [FrontEnd Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+- [LeetCode](https://leetcode.com)
+
+- [Geeks4Geeks](http://www.geeksforgeeks.org/)
+
+- [TopCoder](https://www.topcoder.com/community/competitive-programming/)
+
+- [Reddit Post](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+
+- [Guide To Interview](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+
+- [Geek Interview](http://www.geekinterview.com/)
+
+- [CodeSignal](https://app.codesignal.com/)
+
+- [Algorithms](https://github.com/williamfiset/Algorithms)
+
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+
+- [Interviews](https://github.com/kdn251/interviews)
+
+## Java
+
+[Jackson](http://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/)
 
 ## Learning:
 - [Learn Y in X](https://learnxinyminutes.com/docs/kotlin/)
@@ -51,25 +139,8 @@
 
 - [Elixir](http://codestool.coding-gnome.com)
 
-## Blogs:
-- [Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
-- [On $ites Online](https://www.owntheweb.net)
-
-- [Arabic Dude](https://twitter.com/abdullaharif)
-
-- [Security Dude](https://medium.com/@FredericJacobs)
-
-- [xkcd](https://what-if.xkcd.com)
-
-## Git:
-- [oh shit git](http://ohshitgit.com)
-
-- [Undo Anything](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
-
-- [Git -p](https://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/)
-
-- [Don't Pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+## Linux
+[Permissions Explained](https://www.fratm.com/node/85)
 
 ## Projects:
 - [Purism](https://puri.sm/why-purism/)
@@ -88,20 +159,9 @@
 
 - [Awesome](https://github.com/sindresorhus/awesome/): Tracking every awesome project
 
-## Java
-[Jackson](http://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/)
+## Python:
 
-## Bitcoin:
-- [Reddit Crypto Tips](https://www.reddit.com/r/CryptoCurrency/comments/7pgh7u/ive_made_over_500k_in_crypto_here_are_some_good/)
-
-- [Reddit BTC](https://www.reddit.com/r/btc/)
-
-- [ICOs](https://www.icocountdown.com)
-
-- [Finom](https://finom.io)
-
-## Linux
-[Permissions Explained](https://www.fratm.com/node/85)
+[Libraries](http://www.lleess.com/2013/03/7-python-libraries-you-should-know-about.html#.VtuYrVyDMak)
 
 ## Research Papers:
 - [LEARNING TO WRITE PROGRAMS](https://openreview.net/pdf?id=ByldLrqlx)
@@ -111,62 +171,3 @@
 ## Software Engineering:
 
 [Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
-
-## Python:
-
-[Libraries](http://www.lleess.com/2013/03/7-python-libraries-you-should-know-about.html#.VtuYrVyDMak)
-
-## Databases
-
-- [Sql vs Non-Sql](https://insights.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
-
-- [Indexing SQL](http://www.tutorialspoint.com/sqlite/sqlite_indexes.htm)
-
-- [CouchDb](http://guide.couchdb.org/editions/1/en/index.html)
-
-- [More CouchDb](http://docs.couchdb.org/en/1.6.1/contents.html)
-
-- [Android Couch](https://www.thepolyglotdeveloper.com/2015/04/create-a-couchbase-lite-todo-list-with-native-android/)
-
-- [MongoDb](https://www.youtube.com/watch?v=PIWVFUtBV1Q)
-
-- [Intro to NoSql](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-
-- [On Going Document Based](https://www.youtube.com/watch?v=W3R4pmPCXO4)
-
-## Bit Sites
-
-[MeowBit](https://meowbit.com)
-
-## Interviewing
-- [Career Cup](https://careercup.com)
-
-- [CodeWars](https://www.codewars.com/)
-
-- [Interview Cake](https://www.interviewcake.com)
-
-- [Hired In Tech](https://www.hiredintech.com)
-
-- [Coder Rust](https://www.educative.io/collection/5642554087309312/5679846214598656)
-
-- [FrontEnd Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-- [LeetCode](https://leetcode.com)
-
-- [Geeks4Geeks](http://www.geeksforgeeks.org/)
-
-- [TopCoder](https://www.topcoder.com/community/competitive-programming/)
-
-- [Reddit Post](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-
-- [Guide To Interview](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
-
-- [Geek Interview](http://www.geekinterview.com/)
-
-- [CodeSignal](https://app.codesignal.com/)
-
-- [Algorithms](https://github.com/williamfiset/Algorithms)
-
-- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
-
-- [Interviews](https://github.com/kdn251/interviews)
