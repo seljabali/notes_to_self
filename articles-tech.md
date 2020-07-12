@@ -2,8 +2,7 @@
 - [Tutorials](https://www.videocopilot.net)
 
 ## Bit Sites
-
-[MeowBit](https://meowbit.com)
+- [MeowBit](https://meowbit.com)
 
 ## Bitcoin:
 - [Reddit Crypto Tips](https://www.reddit.com/r/CryptoCurrency/comments/7pgh7u/ive_made_over_500k_in_crypto_here_are_some_good/)
@@ -89,8 +88,7 @@
 - [Interviews](https://github.com/kdn251/interviews)
 
 ## Java
-
-[Jackson](http://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/)
+- [Jackson](http://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/)
 
 ## Learning:
 - [Learn Y in X](https://learnxinyminutes.com/docs/kotlin/)
@@ -140,7 +138,7 @@
 - [Elixir](http://codestool.coding-gnome.com)
 
 ## Linux
-[Permissions Explained](https://www.fratm.com/node/85)
+- [Permissions Explained](https://www.fratm.com/node/85)
 
 ## Projects:
 - [Purism](https://puri.sm/why-purism/)
@@ -160,14 +158,12 @@
 - [Awesome](https://github.com/sindresorhus/awesome/): Tracking every awesome project
 
 ## Python:
-
-[Libraries](http://www.lleess.com/2013/03/7-python-libraries-you-should-know-about.html#.VtuYrVyDMak)
+- [Libraries](http://www.lleess.com/2013/03/7-python-libraries-you-should-know-about.html#.VtuYrVyDMak)
 
 ## Research Papers:
-- [LEARNING TO WRITE PROGRAMS](https://openreview.net/pdf?id=ByldLrqlx)
-
+- [Learning To Write Programs](https://openreview.net/pdf?id=ByldLrqlx)
 - [CS Papers](https://cshe.berkeley.edu/publications/publications.php?id=275https://cshe.berkeley.edu/publications/publications.php?id=275)
 
 ## Software Engineering:
-
-[Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
+- [Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
+- [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html)
