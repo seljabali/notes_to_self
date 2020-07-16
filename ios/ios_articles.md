@@ -10,6 +10,7 @@
 
 ## Interview Questions
 - [Ray Wenderlich's Interview](https://github.com/raywenderlich/ios-interview)
+- [Ray Wenderlich's Navigation of Interview](https://www.raywenderlich.com/10625296-navigating-the-ios-interview)
 
 ## Learning Resources
 - [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui): Swift UI
