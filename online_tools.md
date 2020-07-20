@@ -74,6 +74,7 @@
 - [BearAudioTool](https://www.bearaudiotool.com/mp3-to-midi)
 
 ## Resume
+- [Creddle](https://resume.creddle.io) ✅
 - [CV Maker](https://cvmkr.com)
 - [Visual CV](https://www.visualcv.com)
 - [Resume](https://www.resume.com)
