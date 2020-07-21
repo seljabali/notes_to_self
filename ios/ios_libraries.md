@@ -121,6 +121,7 @@
   - [YPImagePicker](https://github.com/Yummypets/YPImagePicker)
 
 - Injection:
+  - [DITranquillity](https://github.com/ivlevAstef/DITranquillity)
   - [Swinject](https://github.com/Swinject/Swinject)
   - [Weaver](https://github.com/scribd/Weaver/)
 
