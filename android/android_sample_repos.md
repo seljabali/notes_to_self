@@ -21,6 +21,7 @@
 - [Marvel Heroes by SkyDoves](https://github.com/skydoves/MarvelHeroes)
 - [MusicPlayer by Zara](https://github.com/ZahraHeydari/MusicPlayer)
 - [Plaid by Android](https://github.com/android/plaid)
+- [Pokedex by SkyDoves](https://github.com/skydoves/Pokedex)
 - [Recipes by Zara](https://github.com/ZahraHeydari/Android-MVVM-RX3-Dagger2-NavComponent)
 - [Sunflower by Android](https://github.com/android/sunflower)
 
