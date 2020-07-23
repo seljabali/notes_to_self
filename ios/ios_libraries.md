@@ -149,6 +149,7 @@
   - [Alamofire](https://github.com/Alamofire/Alamofire)
   - [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire)
   - [Hedwig](https://github.com/onevcat/Hedwig): Sending email over SMTP
+  - [Networking](https://github.com/freshOS/Networking): Uses Combine
 
 - Notifications:
   - []()
