@@ -175,3 +175,4 @@
 ## Software Engineering:
 - [Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
 - [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html)
+- [Refactoring Guru](https://refactoring.guru/): Design Patterns
