@@ -53,6 +53,7 @@
     - [RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
     - [Realm Studio](https://realm.io/products/realm-studio)
   - [ObjectBox](https://github.com/objectbox/objectbox-swift)
+  - [CoreValue](https://github.com/terhechte/CoreValue): Core Data wrapper
 
 - Date:
   - [Swift Date](https://github.com/malcommac/SwiftDate) ✅ 
