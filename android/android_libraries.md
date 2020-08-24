@@ -134,6 +134,7 @@
   - [OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)
   - [Advanced RecyclerView](https://github.com/h6ah4i/android-advancedrecyclerview) ✅
   - [Sticky List Headers](https://github.com/emilsjolander/StickyListHeaders)
+  - [Drag Drop Swipe RecyclerView](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview)
 
 - Rx:
   - [RxJava](https://github.com/ReactiveX/RxJava) ✅
