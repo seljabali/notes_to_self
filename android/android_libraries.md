@@ -31,7 +31,7 @@
   - [SQL Delight](https://github.com/square/sqldelight): Typesafe Kotlin APIs from SQL
 
 - Date:
-  - [ThreeTen ABP](https://github.com/JakeWharton/ThreeTenABP) ✅
+  - [ThreeTen ABP](https://github.com/JakeWharton/ThreeTenABP): Java Time wrapper for Gradle version < 4.0
   - [Joda Time](https://github.com/dlew/joda-time-android)
 
 - Debugger:
@@ -65,8 +65,6 @@
   - [Anko](https://github.com/Kotlin/anko): Syntactic sugaring
   - [Data Validator](https://github.com/inmite/android-validation-komensky): Data validation made easy
   - [Icepick](https://github.com/frankiesardo/icepick): Instance State made easy
-  - [Dexter](https://github.com/Karumi/Dexter): Permission Helper
-  - [Easy Permissions](https://github.com/googlesamples/easypermissions): Permission Helper
 
 - Image Loading:
   - [Glide](https://github.com/bumptech/glide) ✅
@@ -124,6 +122,11 @@
   - [AutoParse JSON](https://github.com/Workday/autoparse-json)
   - [Gson](https://github.com/google/gson)
 
+- Permissions:
+  - [Dexter](https://github.com/Karumi/Dexter): Permission Helper
+  - [Easy Permissions](https://github.com/googlesamples/easypermissions): Permission Helper
+  - [Aaper](https://github.com/LikeTheSalad/aaper): Annotations ensuring Android Permissions at runtime.
+  
 - Preferences:
   - [Rx Preferences](https://github.com/f2prateek/rx-preferences): Rx Shared Preferences
 
