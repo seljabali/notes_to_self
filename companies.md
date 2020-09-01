@@ -73,6 +73,8 @@
 
 ## General Job Postings
 - [Crushbowl List](https://gist.github.com/crushbowl/ae769d5b099765ecce44)
+- [Remote Ok](https://remoteok.io/)
+- [We Work Remotely](https://weworkremotely.com))
 
 ## Company Reviews/Interview Questions
 - [Ambition Box](https://www.ambitionbox.com)
