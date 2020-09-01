@@ -57,11 +57,6 @@
 - [Venturi](https://www.venturi-group.com/us/)
 - [Orbis](https://www.orbisconsultants.com/)
 
-## Easy to Apply To Companies
-- [easy application](https://github.com/j-delaney/easy-application)
-- [HackerRank](https://www.hackerrank.com)
-- [TripleByte](https://triplebyte.com)
-
 ## Incubators
 - [Founder Space](https://www.foundersspace.com)
 - [500](https://500.co)
@@ -71,10 +66,16 @@
 - [Oasis500](http://oasis500.com)
 - [Samsung Next](https://samsungnext.com)
 
+## Easy to Apply To Companies
+- [easy application](https://github.com/j-delaney/easy-application)
+- [HackerRank](https://www.hackerrank.com)
+- [TripleByte](https://triplebyte.com)
+- [Toronto Tech Scene](https://github.com/toriagibbs-zz/toronto-tech-scene)
+
 ## General Job Postings
 - [Crushbowl List](https://gist.github.com/crushbowl/ae769d5b099765ecce44)
 - [Remote Ok](https://remoteok.io/)
-- [We Work Remotely](https://weworkremotely.com))
+- [We Work Remotely](https://weworkremotely.com)
 
 ## Company Reviews/Interview Questions
 - [Ambition Box](https://www.ambitionbox.com)
