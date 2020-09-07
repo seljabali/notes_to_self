@@ -27,6 +27,29 @@
 - [Gradle Books](https://gradle.org/books/)
 - [Gradle Versions](https://developer.android.com/studio/releases/gradle-plugin.html)
 
+## Dependency Injection
+- [Dagger vs Koin](https://medium.com/mobile-app-development-publication/dagger-2-and-koin-comparison-4223dae9725d)
+- [Android DI overview](https://developer.android.com/training/dependency-injection)
+### Dagger
+- [Simple Dagger Explanation](https://stackoverflow.com/questions/48948687/difference-between-module-and-component-in-dagger2)
+- [Dagger 2](https://guides.codepath.com/android/Dependency-Injection-with-Dagger-2)
+- [Dagger 2 ex](https://github.com/codepath/dagger2-example)
+- [Dagger/Retro/MVP](https://android.jlelse.eu/a-simple-android-apps-with-mvp-dagger-rxjava-and-retrofit-4edb214a66d7)
+- [MVP/Dagger](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
+- [Flow & Mortor948617](https://academy.realm.io/posts/using-flow-mortar/)
+- [Dagger 2 by JW](https://www.youtube.com/watch?v=plK0zyRLIP8)
+- [Moar Dagger](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
+### Koin
+- [Ready for Koin 2.0](https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3)
+- [Quickstart Koin](https://start.insert-koin.io/#/quickstart/kotlin)
+- [Exploring Koin in Android and Kotlin](http://mobologicplus.com/exploring-koin-dependency-injection-in-android-and-kotlin/)
+
+### Hilt
+- [Hilt Android overview](https://developer.android.com/training/dependency-injection/hilt-android)
+- [Hilt Android Announcement](https://medium.com/androiddevelopers/dependency-injection-on-android-with-hilt-67b6031e62d)
+- [Hilt Annotations](https://developer.android.com/images/training/dependency-injection/hilt-annotations.pdf)
+- [Hilt Multi-module](http://developer.android.com/training/dependency-injection/hilt-multi-module)
+
 ## General:
 - [Say No to Base Fragments & Activities](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
 - [UI Databinding Antipattern](https://quinngil.com/2019/01/29/antipattern-ui-databinding/)
@@ -89,24 +112,11 @@
 - [Kotlin usage](http://objectbox.io/documentation/kotlin/)
 - [Migration](https://docs.objectbox.io/advanced/data-model-updates#objectbox-data-model-updates)
 
-## Dagger
-- [Simple Dagger Explanation](https://stackoverflow.com/questions/48948687/difference-between-module-and-component-in-dagger2)
-- [Dagger 2](https://guides.codepath.com/android/Dependency-Injection-with-Dagger-2)
-- [Dagger 2 ex](https://github.com/codepath/dagger2-example)
-- [Dagger/Retro/MVP](https://android.jlelse.eu/a-simple-android-apps-with-mvp-dagger-rxjava-and-retrofit-4edb214a66d7)
-- [MVP/Dagger](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
-- [Flow & Mortor948617](https://academy.realm.io/posts/using-flow-mortar/)
-- [Dagger 2 by JW](https://www.youtube.com/watch?v=plK0zyRLIP8)
-- [Moar Dagger](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
-
 ## Retrofit
 [Retrofit](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
 
 ## Rx
 - [Rx Click Recycler](https://stackoverflow.com/questions/44433115/recyclerview-item-click-using-rxjava2-rxbinding-not-working-after-fragment-rep/44840296)
-
-## Koin
-- [Exploring Koin in Android and Kotlin](http://mobologicplus.com/exploring-koin-dependency-injection-in-android-and-kotlin/)
 
 ## Kotlin
 - [Android w/ Kotlin](https://www.youtube.com/watch?v=A2LukgT2mKc&feature=youtu.be)
