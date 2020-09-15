@@ -14,6 +14,10 @@
 - [Procore](http://procore.com/)
 - [PlanGrid](https://www.plangrid.com): remote friendly
 
+## Consumer
+- [Polarr](https://www.polarr.com): Photo Editing
+- [Superhuman](http://superhuman.com/): Email Client
+
 ## Consulting
 - [Asynchrony Labs](https://www.asynchrony.com): remote friendly
 - [BiTe](https://www.biteinteractive.com)
@@ -38,14 +42,19 @@
 - [WalMart]()
 - [WayFair](https://www.wayfaircareers.com/): remote friendly
 
-## Fitness
-- [Peerfit](https://www.peerfit.com)
-- [Peloton](https://www.onepeloton.com)
-
 ## FinTech
 - [Chime](https://www.chimebank.com/)
 - [Plaid](http://plaid.com/): remote friendly
 - [Stripe](http://stripe.com/)
+
+## Health
+- [Peerfit](https://www.peerfit.com)
+- [Peloton](https://www.onepeloton.com)
+- [Glo](https://www.glo.com): Yoga & meditation platform
+- [Headspace](https://www.headspace.com): Meditate
+- [Noom](https://www.noom.com/): Diet
+- [Lumosity](https://www.lumosity.com/): Brain health
+- [Omada Health](https://www.omadahealth.com): Digital Care
 
 ## NLP
 - [Lexy](https://angel.co/lexy-io/jobs)
