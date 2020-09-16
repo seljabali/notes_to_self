@@ -43,6 +43,7 @@
 - [WayFair](https://www.wayfaircareers.com/): remote friendly
 
 ## FinTech
+- [Affirm](http://affirm.com/)
 - [Chime](https://www.chimebank.com/)
 - [Plaid](http://plaid.com/): remote friendly
 - [Stripe](http://stripe.com/)
@@ -55,6 +56,7 @@
 - [Noom](https://www.noom.com/): Diet
 - [Lumosity](https://www.lumosity.com/): Brain health
 - [Omada Health](https://www.omadahealth.com): Digital Care
+- [Thrive Global](https://thriveglobal.com): Change behaviors
 
 ## NLP
 - [Lexy](https://angel.co/lexy-io/jobs)
