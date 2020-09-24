@@ -54,6 +54,7 @@
 - [Glo](https://www.glo.com): Yoga & meditation platform
 - [Headspace](https://www.headspace.com): Meditate
 - [Noom](https://www.noom.com/): Diet
+- [Noteworth](https://www.noteworth.com/)
 - [Lumosity](https://www.lumosity.com/): Brain health
 - [Omada Health](https://www.omadahealth.com): Digital Care
 - [Thrive Global](https://thriveglobal.com): Change behaviors
