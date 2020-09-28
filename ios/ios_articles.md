@@ -48,6 +48,7 @@
 ## MVVM
 - [Lib Example](https://github.com/JunDang/RxNetWorking)
 - [MVVM + Rx](https://medium.com/@navdeepsingh_2336/creating-an-ios-app-with-mvvm-and-rxswift-in-minutes-b8800633d2e8)
+- [Clean Architecture RxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)
 
 ## Navigation
 - [Root Navigation Controller](https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff)
