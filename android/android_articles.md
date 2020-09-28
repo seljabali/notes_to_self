@@ -51,6 +51,7 @@
 - [Hilt Multi-module](http://developer.android.com/training/dependency-injection/hilt-multi-module)
 
 ## General:
+- [Android & Kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
 - [Say No to Base Fragments & Activities](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
 - [UI Databinding Antipattern](https://quinngil.com/2019/01/29/antipattern-ui-databinding/)
 - [App Quality Checklist](https://developer.android.com/docs/quality-guidelines/core-app-quality#sc)
