@@ -40,6 +40,7 @@
   - [Floating Panel](https://github.com/SCENEE/FloatingPanel)
   - [Material](https://material.io/develop/ios/components/bottom-sheet/)
   - [DrawerKit](https://github.com/babylonhealth/DrawerKit)
+  - [PanModal](https://github.com/slackhq/PanModal)
 
 - Camera:
   - [YPImagePicker](https://github.com/Yummypets/YPImagePicker)
