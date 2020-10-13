@@ -76,7 +76,7 @@ foo.apply {
 
 # 6. Elvis Operator
 ```kotlin
-val foo = bar ?: {
+val foo = bar ?: run {
   ...
-}.run()
+}
 ```
