@@ -89,6 +89,9 @@
   - [Carthage](https://github.com/Carthage/Carthage): [Install Manual](https://www.raywenderlich.com/416-carthage-tutorial-getting-started)
   - [CocoaPods](https://guides.cocoapods.org/using/getting-started.html)
   - [Swift Package Manager](https://github.com/apple/swift-package-manager). [SwiftPM](https://swiftpm.co/)
+  
+- Dependency Injection
+  - [Cleanse](https://github.com/square/Cleanse)
 
 - Device Info:
   - [Device Kit](https://github.com/dennisweissmann/DeviceKit)
