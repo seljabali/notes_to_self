@@ -73,6 +73,7 @@
 
 - Debugger:
   - [Response Detective](https://github.com/netguru/ResponseDetective): Intercepting outgoing requests & incoming responses ✅ 
+  - [Atlantis](https://github.com/ProxymanApp/atlantis): Intercepting HTTP/HTTPs traffic
   - [Flex](https://github.com/Flipboard/FLEX): In-app debugging and exploration tool
   - [Reveal](https://revealapp.com/): Paid for debug service
   - [Pony Debugger](https://github.com/square/PonyDebugger): Chrome network & data debugger
