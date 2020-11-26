@@ -2,3 +2,11 @@
 - [Press](https://github.com/saket/press)
 - [KmpMvi](https://github.com/badoo/KmpMvi)
 - [Moko Template](https://github.com/icerockdev/moko-template)
+- [KaMPKit](https://github.com/touchlab/KaMPKit)
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace): Jetpack Compose and SwiftUI
+- [KNConcurrencySamples](https://github.com/touchlab/KNConcurrencySamples)
+- [Kmm Sample](https://github.com/Kotlin/kmm-sample)
+- [KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform)
+- [GitHubKotlinMPPSample](https://github.com/yshrsmz/GitHubKotlinMPPSample)
+- [Kotlin Multiplatform](https://github.com/undabot/kotlin-multiplatform)
+- [KotlinMultiplatformExample](https://github.com/MarcinMoskala/KotlinMultiplatformExample)
