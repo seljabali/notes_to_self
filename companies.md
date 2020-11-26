@@ -22,6 +22,7 @@
 - [Asynchrony Labs](https://www.asynchrony.com): remote friendly
 - [BiTe](https://www.biteinteractive.com)
 - [Bottle Rocket Studios](https://www.bottlerocketstudios.com)
+- [Epam](https://www.epam.com)
 - [Grupa](https://grupa.io/howgrupaworks)
 - [Hathway](https://wearehathway.com)
 - [HyperGiant](https://www.hypergiant.com/careers/)
