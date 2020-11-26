@@ -1,2 +1,3 @@
 - [TMDbMultiplatform](https://github.com/Drjacky/TMDbMultiplatform)
 - [Press](https://github.com/saket/press)
+- [KmpMvi](https://github.com/badoo/KmpMvi)
