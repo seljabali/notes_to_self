@@ -11,3 +11,4 @@
 
 #### zLists
 - [AAkira's List](https://github.com/AAkira/Kotlin-Multiplatform-Libraries)
+- [Icerock's List](https://libs.kmp.icerock.dev)
