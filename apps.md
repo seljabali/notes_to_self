@@ -67,6 +67,10 @@
 - [Imageoptim](https://imageoptim.com/mac): Drag & Drop Image Compression App
 - [Webponize](https://github.com/webponize/webponize): Converts PNG/JPG -> WebP
 
+## Privacy
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+- [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
+
 ## Productivity
 - [Flux](https://justgetflux.com): Adapt computer screen to the time of day
 - [Brightness Slider](https://itunes.apple.com/us/app/brightness-slider/id456624497): Adjust screen brightness from the menu bar
