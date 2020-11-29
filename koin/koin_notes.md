@@ -1,4 +1,4 @@
-[Documentation](https://insert-koin.io/docs/2.0/documentation/reference/index.html)
+[Documentation](https://doc.insert-koin.io/#/)
 
 ### Defining Modules with similar return type
 Definition:
