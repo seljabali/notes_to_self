@@ -4,6 +4,8 @@
 
 - [RxTutorial](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) [, part 2](https://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
 
+- [Fundamentals w/ RxKotlin](https://medium.com/@gabrieldemattosleon/fundamentals-of-rxjava-with-kotlin-for-absolute-beginners-3d811350b701)
+
 - [RxJava wiki](https://github.com/ReactiveX/RxJava/wiki)
 
 - [RxRelay](https://github.com/JakeWharton/RxRelay)
