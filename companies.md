@@ -35,8 +35,14 @@
 
 ## Education
 - [Class Dojo](https://www.classdojo.com/jobs/)
+- [edX](https://www.edx.org)
 - [IXL](https://www.ixl.com/company/)
+- [Jumpido](http://www.jumpido.com/)
 - [Khan Academy](https://boards.greenhouse.io/khanacademy/)
+- [Learndot](https://www.learndot.com)
+- [Magoosh](https://magoosh.com)
+- [MinervaProject](https://www.minervaproject.com)
+- [ShowMe](https://www.showme.com)
 
 ## E-commerce
 - [Poshmark](https://poshmark.com)
