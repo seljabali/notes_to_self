@@ -42,6 +42,9 @@
 
 - [On Going Document Based](https://www.youtube.com/watch?v=W3R4pmPCXO4)
 
+## Datastructures
+- [What are the lesser known but useful data structures?](https://news.ycombinator.com/item?id=24958781)
+
 ## Gaming
 - [LÖVE](http://love2d.org): 2D games in Lua
 
@@ -181,3 +184,7 @@
 - [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift): Design Patterns in Swift
 - [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+
+## zMisc
+- [DeGoogle](https://news.ycombinator.com/item?id=24972669)
+- [Reading 100 Books](https://durmonski.com/private/reading-100-books/)
