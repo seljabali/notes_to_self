@@ -63,6 +63,10 @@
 - [Imageoptim](https://imageoptim.com/mac): Drag & Drop Image Compression App
 - [Webponize](https://github.com/webponize/webponize): Converts PNG/JPG -> WebP
 
+## Photo Extraction
+- [OSx Photos](https://github.com/RhetTbull/osxphotos)
+- [Exif Tool](https://exiftool.org)
+
 ## Privacy
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
