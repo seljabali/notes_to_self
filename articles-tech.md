@@ -188,3 +188,4 @@
 ## zMisc
 - [DeGoogle](https://news.ycombinator.com/item?id=24972669)
 - [Reading 100 Books](https://durmonski.com/private/reading-100-books/)
+- [What Makes a Great Product Manager](https://news.ycombinator.com/item?id=25179296)
