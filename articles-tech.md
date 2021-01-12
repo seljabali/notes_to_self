@@ -178,3 +178,4 @@
 - [Refactoring Guru](https://refactoring.guru/): Design Patterns
 - [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift): Design Patterns in Swift
 - [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
