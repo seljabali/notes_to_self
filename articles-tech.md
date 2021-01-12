@@ -54,6 +54,8 @@
 
 - [Don't Pull](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)
 
+- [Git Exercises](https://gitexercises.fracz.com/)
+
 ## Interviewing
 - [Career Cup](https://careercup.com)
 
