@@ -32,10 +32,6 @@
 ## FTP, SFTP
 - [CyberDuck](https://cyberduck.io)
 
-## GIF Screen Capture tool
-- [LiceCap](http://www.cockos.com/licecap/)
-- [Kap](https://getkap.co)
-
 ## Git
 - [Github Desktop](https://desktop.github.com)
 - [SourceTree](https://www.sourcetreeapp.com)
@@ -89,6 +85,11 @@
 ## REST clients
 - [Insomnia](https://insomnia.rest)
 - [Postman](https://www.getpostman.com)
+
+## Screen Capture tool
+- [LiceCap](http://www.cockos.com/licecap/)
+- [Kap](https://getkap.co)
+- [Screenotate](https://screenotate.com/)
 
 ## Screen Savers
 - [Star Field](http://www.opanoid.com/index.php?view=20090930230954): Classic Windows Screensaver 
