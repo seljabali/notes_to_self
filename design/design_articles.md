@@ -6,6 +6,7 @@
 - [Boost Mobile UX with UX Design Principles](https://uxplanet.org/boost-mobile-ux-with-ux-design-principles-and-best-practices-a1e492ab6ff3)
 - [8 things I learned analyzing Apples product pages](https://uxplanet.org/8-things-i-learned-analyzing-apples-product-pages-9a5284681b37)
 - [Designing For The Modern Musician](https://ymedialabs.com/designing-for-the-modern-musician)
+- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 
 ## Academic
 - [Personas](http://www.infotoday.com/Online/jul03/head.shtml)
