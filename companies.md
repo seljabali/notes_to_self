@@ -22,11 +22,18 @@
 - [Asynchrony Labs](https://www.asynchrony.com): remote friendly
 - [BiTe](https://www.biteinteractive.com)
 - [Bottle Rocket Studios](https://www.bottlerocketstudios.com)
+- [CodeAndTheory](https://www.codeandtheory.com)
+- [Digitas](https://www.digitas.com/)
 - [Epam](https://www.epam.com)
+- [Essence](https://www.essenceglobal.com)
+- [FcbSix](https://fcbsix.com/)
 - [Grupa](https://grupa.io/howgrupaworks)
 - [Hathway](https://wearehathway.com)
 - [HyperGiant](https://www.hypergiant.com/careers/)
+- [Jam3](https://www.jam3.com)
 - [Mobile Jazz](http://mobilejazz.com/): remote friendly
+- [R/Ga](https://www.rga.com)
+- [RazorFish](https://www.razorfish.com)
 - [Reaktor](https://www.reaktor.com)
 - [Rootstrap](https://www.rootstrap.com)
 - [Ustwo](https://www.ustwo.com/)
