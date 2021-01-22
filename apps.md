@@ -73,18 +73,19 @@
 
 ## Productivity
 - [Flux](https://justgetflux.com): Adapt computer screen to the time of day
-- [Brightness Slider](https://itunes.apple.com/us/app/brightness-slider/id456624497): Adjust screen brightness from the menu bar
+- [Brightness Slider](https://itunes.apple.com/us/app/brightness-slider/id456624497): Adjust screen brightness from the menu bar.
 - [Flycut](https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12): A clean & simple clipboard manager for developers.
-- [Anti Sleep](https://itunes.apple.com/us/app/anti-sleep/id946798523?mt=12): Utility in blocking sleep mode
+- [Anti Sleep](https://itunes.apple.com/us/app/anti-sleep/id946798523?mt=12): Utility in blocking sleep mode.
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): monitoring tool for Mac OS X
 - [Witch](https://manytricks.com/witch/): Switch between app windows easily.
 - [SwitchResX](http://www.madrau.com/srx_download/download.html): Adjust your resolution to the T.
-- [Spectacle](https://www.spectacleapp.com): Spectacle allows you to organize your windows without using a mouse
-- [Moom](https://manytricks.com/moom/): Windows organizer
+- [Spectacle](https://www.spectacleapp.com): Spectacle allows you to organize your windows.
+- [Moom](https://manytricks.com/moom/): Windows organizer.
 - [Similar Photos Cleaner](https://itunes.apple.com/us/app/similar-photos-cleaner/id1333523703): Duplicate photo cleaner tool for your Mac.
 - [Duplicate Photos Fixer Pro](https://apps.apple.com/us/app/duplicate-photos-fixer-pro/id963642514?mt=12)
 - [Duplicate File Finder Remover](https://apps.apple.com/us/app/duplicate-file-finder-remover/id1032755628?mt=12) ✅
-- [Sensible](https://sensible-side-buttons.archagon.net): Support Back/Forward buttons on mice
+- [Sensible](https://sensible-side-buttons.archagon.net): Support Back/Forward buttons on mice.
+- [Smart Scroll](https://www.marcmoini.com/sx_en.html): Makes scrolling smoother for mice.
 
 ## REST clients
 - [Insomnia](https://insomnia.rest)
