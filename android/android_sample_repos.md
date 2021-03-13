@@ -11,9 +11,9 @@
 - [Theatre MVVM](https://github.com/andremion/Theatre)
 - [RxAndroid Retrofit](https://github.com/WeRockStar/RxAndroid-Retrofit): RxJava, RxAndroid, Retrofit 2, Mockito + Travis CI
 - [Buddy Search](https://github.com/ihorvitruk/buddysearch): MVP
-- [Android Showcase](https://github.com/igorwojda/android-showcase/)
 
 ## Apps
+- [Android Showcase by Igor Wojda](https://github.com/igorwojda/android-showcase/)
 - [Art Collector](https://github.com/ataulm/art-collector)
 - [Disney Motions by SkyDoves](https://github.com/skydoves/disneymotions)
 - [Guardian Scope by Ahmed Aboelyazeed](https://github.com/ahmdaeyz/GuardianScope)
