@@ -8,18 +8,6 @@ ssh foo@[ip address]
 adduser foo
 adduser foo sudo
 ```
-or
-```
-sudo useradd -d /home/foo -m foo
-passwd foo
-
-su - foo //switch user
-
-chown foo /home/foo
-
-su - root
-usermod -G sudo foo
-```
 
 ## Update software
 ```
@@ -51,7 +39,6 @@ ssh-keygen
 
 // copy public file to remote server
 ssh-copy-id -i foo.pub [user]@[ip_address]
-scp foo.pub [user]@[ip_address]:~/.ssh/ 
 
 // register identity against newly created public key
 eval "$(ssh-agent -s)" && ssh-add ~/.ssh/foo
@@ -62,6 +49,7 @@ ssh [user]@[ip_address]
 
 Edit security file:
 ```
+cd /
 cd etc/ssh
 sudo emacs sshd_config
 ```
@@ -76,8 +64,8 @@ UsePAM yes
 Restart security config changes: 
 ```
 sudo systemctl restart sshd
-or 
 sudo service ssh restart
+reboot
 ```
 
 ## Setup Hosts
