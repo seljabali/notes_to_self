@@ -33,7 +33,7 @@ sudo systemctl restart sshd
 sudo useradd -d /home/foo -m foo
 passwd foo
 
-su - appsusers //switch user
+su - foo //switch user
 
 chown foo /home/foo
 
