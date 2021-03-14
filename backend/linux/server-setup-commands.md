@@ -48,6 +48,8 @@ UsePAM yes
 Restart security config changes: 
 ```
 sudo systemctl restart sshd
+or 
+sudo service ssh restart
 ```
 
 ## Add User
