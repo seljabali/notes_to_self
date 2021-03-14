@@ -45,7 +45,7 @@ usermod -G sudo foo
 Hostname
 ```
 emacs /etc/hostname
-  www
+	www
 ```
 Hosts
 ```
