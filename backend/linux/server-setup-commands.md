@@ -13,6 +13,11 @@ apt-get update && apt-get upgrade
 dpkg-reconfigure tzdata
 ```
 
+## Install Emacs
+```
+apt  install e3
+```
+
 ## Security
 Generate & copy SSH key to server:
 ```
