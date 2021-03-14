@@ -1,3 +1,8 @@
+## Connect to server
+```
+ssh foo@[ip address]
+```
+
 ## Update software
 ```
 apt-get update && apt-get upgrade
