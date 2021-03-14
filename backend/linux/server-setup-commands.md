@@ -32,6 +32,7 @@ ssh-keygen
 // complete steps, assume named foo & foo.pub
 
 // copy public file to remote server
+ssh-copy-id -i foo.pub [user]@[ip_address]
 scp foo.pub [user]@[ip_address]:~/.ssh/ 
 
 // register identity against newly created public key
