@@ -27,3 +27,16 @@ Restart security config changes:
 ```
 sudo systemctl restart sshd
 ```
+
+## Add User
+```
+sudo useradd -d /home/foo -m foo
+passwd foo
+
+su - appsusers //switch user
+
+chown foo /home/foo
+
+su - root
+usermod -G sudo foo
+```
