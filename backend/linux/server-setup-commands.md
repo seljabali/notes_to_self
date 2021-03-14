@@ -49,9 +49,9 @@ sudo emacs sshd_config
 ```
 Change the following:
 ```
+AddressFamily inet
 PermitRootLogin no
 PasswordAuthentication no
-AddressFamily inet
 ChallengeResponseAuthentication no
 UsePAM yes
 ```
