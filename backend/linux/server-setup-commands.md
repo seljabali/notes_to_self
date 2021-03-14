@@ -55,7 +55,7 @@ sudo emacs sshd_config
 ```
 Change the following:
 ```
-AddressFamily inet
+AddressFamily inet // questionable, messed up login
 PermitRootLogin no
 PasswordAuthentication no
 ChallengeResponseAuthentication no
