@@ -39,12 +39,11 @@ sudo emacs sshd_config
 ```
 Change the following:
 ```
-# Authentication
 PermitRootLogin no
-# To disable tunneeled clear text passwords
 PasswordAuthentication no
-#Port 22
 AddressFamily inet
+ChallengeResponseAuthentication no
+UsePAM yes
 ```
 Restart security config changes: 
 ```
