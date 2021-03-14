@@ -23,6 +23,7 @@ Generate & copy SSH key to server:
 ```
 // on remote machine
 mkdir ~/.ssh
+sudo chmod -R 700 ~/.ssh/
 
 // on local machine
 cd ~/.ssh
