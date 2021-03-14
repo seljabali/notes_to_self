@@ -14,6 +14,24 @@ dpkg-reconfigure tzdata
 ```
 
 ## Security
+Generate SSH Key:
+```
+// on local machine
+cd ~/.ssh
+// create private/public keys
+ssh-keygen
+// complete steps, assume named foo & foo.pub
+
+// copy public file to remote server
+scp foo.pub [user]@[ip_address]:~/.ssh/ 
+
+// register identity against newly created public key
+eval "$(ssh-agent -s)" && ssh-add ~/.ssh/foo
+
+// test by ssh'ing without needing to enter password
+ssh [user]@[ip_address]
+```
+
 Edit security file:
 ```
 cd etc/ssh
