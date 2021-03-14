@@ -14,7 +14,7 @@ dpkg-reconfigure tzdata
 ```
 
 ## Security
-Generate SSH Key:
+Generate & copy SSH key to server:
 ```
 // on local machine
 cd ~/.ssh
