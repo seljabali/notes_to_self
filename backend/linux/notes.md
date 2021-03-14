@@ -21,6 +21,6 @@ ip -> domain
 important to setup for email sending, some servers reject non-configured mail servers.
 
 ## FQDN, domain, & host name
-FQDN = www.dhk.lol
-domain name = dhk.lol
-hostname = www
+FQDN = www.dhk.lol <br>
+domain name = dhk.lol <br>
+hostname = www <br>
