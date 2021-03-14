@@ -59,6 +59,11 @@ sudo service ssh restart
 
 ## Add User
 ```
+adduser foo
+adduser foo sudo
+```
+or
+```
 sudo useradd -d /home/foo -m foo
 passwd foo
 
