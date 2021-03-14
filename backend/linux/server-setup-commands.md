@@ -40,3 +40,25 @@ chown foo /home/foo
 su - root
 usermod -G sudo foo
 ```
+
+## Setup Hosts
+Hostname
+```
+emacs /etc/hostname
+  www
+```
+Hosts
+```
+emacs /etc/hosts
+	127.0.0.1 www.dhk.lol dhk.lol www localhost
+	127.0.1.1 www
+```
+Check values
+```
+hostname
+	www
+hostname -d
+	dhk.lol
+hostname -f
+	www.dhk.lol
+```
