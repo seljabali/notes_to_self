@@ -3,6 +3,24 @@
 ssh foo@[ip address]
 ```
 
+## Add User
+```
+adduser foo
+adduser foo sudo
+```
+or
+```
+sudo useradd -d /home/foo -m foo
+passwd foo
+
+su - foo //switch user
+
+chown foo /home/foo
+
+su - root
+usermod -G sudo foo
+```
+
 ## Update software
 ```
 apt-get update && apt-get upgrade
@@ -60,24 +78,6 @@ Restart security config changes:
 sudo systemctl restart sshd
 or 
 sudo service ssh restart
-```
-
-## Add User
-```
-adduser foo
-adduser foo sudo
-```
-or
-```
-sudo useradd -d /home/foo -m foo
-passwd foo
-
-su - foo //switch user
-
-chown foo /home/foo
-
-su - root
-usermod -G sudo foo
 ```
 
 ## Setup Hosts
