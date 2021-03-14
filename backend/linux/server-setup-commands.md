@@ -21,6 +21,9 @@ apt  install e3
 ## Security
 Generate & copy SSH key to server:
 ```
+// on remote machine
+mkdir ~/.ssh
+
 // on local machine
 cd ~/.ssh
 // create private/public keys
