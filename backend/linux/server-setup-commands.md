@@ -24,6 +24,11 @@ dpkg-reconfigure tzdata
 apt  install e3
 ```
 
+## Install Java
+```
+sudo apt install openjdk-8-jre-headless
+```
+
 ## Security
 Generate & copy SSH key to server:
 ```
