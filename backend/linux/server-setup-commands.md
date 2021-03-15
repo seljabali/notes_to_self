@@ -89,3 +89,17 @@ hostname -d
 hostname -f
 	www.dhk.lol
 ```
+## Firewall config
+Check is activated:
+```
+sudo ufw status
+``
+if active, open up ports 80 & 443
+```
+sudo ufw allow in "WWW Full"
+```
+Reload
+```
+sudo ufw reload
+```
+Confirm by checking status once more.
