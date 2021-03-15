@@ -93,7 +93,7 @@ hostname -f
 Check is activated:
 ```
 sudo ufw status
-``
+```
 if active, open up ports 80 & 443
 ```
 sudo ufw allow in "WWW Full"
