@@ -24,9 +24,16 @@ dpkg-reconfigure tzdata
 apt  install e3
 ```
 
-## Install Java
+## Install Java JRE
 ```
 sudo apt install openjdk-8-jre-headless
+or 
+sudo apt install default-jre
+```
+
+## Install Java JDK
+```
+sudo apt install default-jdk
 ```
 
 ## Security
