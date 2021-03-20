@@ -6,3 +6,6 @@
 ### Videos
 - [Christopher Batts - Linode Server & Hosting Setup](https://www.youtube.com/watch?v=bDt15OCa0lY)
 - [Chris Hawkes - How To Setup A Linux Server 🐧](https://www.youtube.com/watch?v=B_bSb9tds-Q)
+
+### OSes
+- [Qubes](https://www.qubes-os.org/)
