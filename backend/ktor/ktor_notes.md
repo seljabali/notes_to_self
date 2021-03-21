@@ -52,3 +52,4 @@ fun Applicaiton.module() {
   install(DefaultHeaders)
 }
 ```
+- Example: Routes
