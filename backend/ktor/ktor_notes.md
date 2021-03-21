@@ -17,12 +17,6 @@ Created by Application Engine.
 
 ## Application
 When networking requests come in it is converted to an `ApplicationCall` and goes through a pipeline which is owned by the Application. The pipeline consists interceptor(s), providing routing, compression, etc. 
-
-## Module
-A user-defined function receiving the Application class that is in charge of configuring the server pipeline, install features, registering routes, handling requests, etc.
-- First thing that it's called.
-
-## Application
 - Subclasses Pipeline.
 - It is a pipeline.
 - Has 5 Phases:
@@ -31,6 +25,10 @@ A user-defined function receiving the Application class that is in charge of con
   3. Feature
   4. Call
   5. Fallback
+
+## Module
+A user-defined function receiving the Application class that is in charge of configuring the server pipeline, install features, registering routes, handling requests, etc.
+- First thing that it's called.
 
 ## Pipelines
 - A series of events.
