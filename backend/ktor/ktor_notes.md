@@ -44,3 +44,11 @@ Created by Application Engine.
 - Have Interceptors 
 - Listening async
 - Pass to the next interceptors.
+
+## Features
+- Example: DefaultHeaders (adds server & timestamp)
+```kotlin
+fun Applicaiton.module() {
+  install(DefaultHeaders)
+}
+```
