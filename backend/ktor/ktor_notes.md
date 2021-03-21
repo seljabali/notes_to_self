@@ -17,3 +17,15 @@ Eclipse version.
 Framework, not so much a server. Path of least resistance.
 ### Tomcat
 Is Tomcode.
+
+## Application Environment
+Created by Application Engine.
+- `application.conf` is config files for server
+- Host, port, modules
+- Using a lang: hokan ~ json.
+
+## Module
+- First thing that it's called.
+
+## Application
+- Subclasses Pipeline.
