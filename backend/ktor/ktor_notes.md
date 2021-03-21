@@ -32,13 +32,14 @@ A user-defined function receiving the Application class that is in charge of con
 
 ## Pipelines
 - A series of events.
+- Broken up by phases.
 
 ## Phases
 - Have Interceptors 
 - Listening async
 - Pass to the next interceptors.
 
-## Features
+## Phase: Features
 A feature is a singleton (usually a companion object) that you can install and configure for a pipeline.
 - Example: DefaultHeaders (adds server & timestamp)
 ```kotlin
