@@ -11,3 +11,6 @@
 - [Logging](https://stackoverflow.com/questions/53168116/how-to-log-requests-in-ktor-http-client)
 - [Architecture Proposal by Jorge](https://medium.com/swlh/architecture-proposal-to-build-servers-with-ktor-1069bfaf2926)
 - [Gcloud Deploy Ktor](https://cloud.google.com/community/tutorials/kotlin-ktor-app-engine-java8)
+
+### Technology
+- [Free Marker](https://freemarker.apache.org/)
