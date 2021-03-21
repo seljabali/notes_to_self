@@ -41,10 +41,10 @@ A user-defined function receiving the Application class that is in charge of con
 
 ## Phase: Features
 A feature is a singleton (usually a companion object) that you can install and configure for a pipeline.
-- Example: DefaultHeaders (adds server & timestamp)
+### DefaultHeaders (adds server & timestamp)
 ```kotlin
 fun Applicaiton.module() {
   install(DefaultHeaders)
 }
 ```
-- Example: Routes
+### Routes
