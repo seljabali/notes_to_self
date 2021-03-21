@@ -29,3 +29,18 @@ Created by Application Engine.
 
 ## Application
 - Subclasses Pipeline.
+- It is a pipeline.
+- Has 5 Phases:
+  1. Setup
+  2. Moniotor
+  3. Feature
+  4. Call
+  5. Fallback
+
+## Pipelines
+- A series of events.
+
+## Phases
+- Have Interceptors 
+- Listening async
+- Pass to the next interceptors.
