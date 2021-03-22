@@ -47,6 +47,11 @@ git reset --hard
 git reset --hard HEAD~N
 ```
 
+## Remove specific commit
+```java
+git revert --strategy resolve <commit>
+```
+
 ## Move repo A to B
 ```java
 cd B
@@ -82,5 +87,9 @@ g checkout -b bar
 g stash pop
 g commit -m “added feature”
 g push origin HEAD
+```
 
+## Rebase with theirs strategy
+```java
+g rebase development -X theirs
 ```
