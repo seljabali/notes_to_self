@@ -26,6 +26,7 @@
 - [Build Variables](https://developer.android.com/studio/build/manifest-build-variables)
 - [Gradle Books](https://gradle.org/books/)
 - [Gradle Versions](https://developer.android.com/studio/releases/gradle-plugin.html)
+- [xxxSdkVersion](https://medium.com/androiddevelopers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd)
 
 ## Dependency Injection
 - [Dagger vs Koin](https://medium.com/mobile-app-development-publication/dagger-2-and-koin-comparison-4223dae9725d)
