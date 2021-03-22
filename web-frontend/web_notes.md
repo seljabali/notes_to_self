@@ -9,8 +9,9 @@
 
 ## Kotlin Frameworks
 - [Doodle](https://github.com/nacular/doodle)
-- [Kvision](https://github.com/rjaros/kvision)
 - [Fritz2](https://github.com/jwstegemann/fritz2)
+- [Kvision](https://github.com/rjaros/kvision)
+- [Kweb](https://github.com/kwebio/kweb-core/)
 
 ## Library
 - [MobX](https://mobx.js.org): State management
