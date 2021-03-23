@@ -40,6 +40,7 @@
 - [Flow & Mortor948617](https://academy.realm.io/posts/using-flow-mortar/)
 - [Dagger 2 by JW](https://www.youtube.com/watch?v=plK0zyRLIP8)
 - [Moar Dagger](https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46)
+- [Dagger Best Practices](https://sreekumar-av.medium.com/kotlin-dagger-best-practices-966199b48b89)
 ### Koin
 - [Ready for Koin 2.0](https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3)
 - [Quickstart Koin](https://start.insert-koin.io/#/quickstart/kotlin)
