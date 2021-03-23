@@ -79,5 +79,11 @@
 ## Transcription
 - [Rev](https://www.rev.com)
 
+## Virtual Assistance
+- [GetFriday](https://www.getfriday.com/)
+- [UAssistme](https://www.uassistme.co)
+- [Delegated](https://www.delegated.com/)
+- [AskSunday](https://asksunday.com)
+
 ## Web
 - [Web URL Services Recommendations](https://news.ycombinator.com/item?id=24506303)
