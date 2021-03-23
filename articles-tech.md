@@ -24,6 +24,8 @@
 
 - [xkcd](https://what-if.xkcd.com)
 
+- [Tim Ferris - 4hr](https://tim.blog/)
+
 ## Databases
 
 - [Sql vs Non-Sql](https://insights.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
