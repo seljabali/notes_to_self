@@ -16,7 +16,7 @@
 ## Learning Resources
 - [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui): Swift UI
 - [WWDC SwiftUI](https://www.youtube.com/watch?v=aH7oWxfxpJY)
-- Stanford iOS Course: [MVC](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780?mt=2) [MVVM](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
+- Stanford iOS Course: [MVC](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780?mt=2), [MVVM](https://www.youtube.com/watch?v=jbtqIBpUG7g&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=14)
 - [27 Places to learn](https://medium.com/app-coder-io/27-places-to-learn-ios-development-best-ones-b1bcfb48efab)
 - [Ray Wenderlich](https://www.raywenderlich.com/ios)
 - [iOS Tutorials](https://codewithchris.com/how-to-make-an-iphone-app/)
