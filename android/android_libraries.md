@@ -22,6 +22,10 @@
 - Camera:
   - [Camera Kit](https://github.com/CameraKit/camerakit-android) ✅
   - [Open Camera](https://github.com/almalence/OpenCamera). [Variant #1](https://github.com/mgoulao/Open-Camera), [Variant #2](https://sourceforge.net/p/opencamera/code/ci/master/tree/)
+
+- Code Analysis
+- [Ktlint](https://ktlint.github.io/)
+- [detekt](https://github.com/detekt/detekt)
   
 - Coroutines:
   - [Corbind](https://github.com/LDRAlighieri/Corbind)
@@ -43,6 +47,9 @@
 
 - Deep Linking:
   - [Branch io](https://github.com/BranchMetrics/Branch-Android-Invite-SDK)
+
+- Documentation
+- [Dokka](https://kotlin.github.io/dokka/1.4.30/): Kotlin javadoc
 
 - Error Reporting:
   - [Sentry](https://github.com/getsentry/sentry-java)
