@@ -14,3 +14,6 @@
 
 ### Technology
 - [Free Marker](https://freemarker.apache.org/)
+- [Kotlinx.html](https://github.com/Kotlin/kotlinx.html)
+- [KotlinJS](https://kotlinlang.org/docs/js-overview.html)
+- [Exposed](https://github.com/JetBrains/Exposed): ORM Framework
