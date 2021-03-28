@@ -18,3 +18,6 @@
 - [KotlinJS](https://kotlinlang.org/docs/js-overview.html)
 - [Exposed](https://github.com/JetBrains/Exposed): ORM Framework
 - [Kotlin Serialization](https://ktor.io/docs/kotlin-serialization.html)
+- [Rsocket](https://rsocket.io/)
+- [Graphql Kotlin](https://expediagroup.github.io/graphql-kotlin/docs/)
+- [gRPC](https://grpc.io/docs/languages/kotlin/)
