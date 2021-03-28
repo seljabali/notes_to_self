@@ -48,6 +48,11 @@
 - Deep Linking:
   - [Branch io](https://github.com/BranchMetrics/Branch-Android-Invite-SDK)
 
+- Dependency Injection:
+  - [Dagger](https://github.com/google/dagger)
+  - [Koin](https://github.com/InsertKoinIO/koin) ✅
+  - [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI)
+
 - Documentation
 - [Dokka](https://kotlin.github.io/dokka/1.4.30/): Kotlin javadoc
 
@@ -86,11 +91,6 @@
 
 - Image Viewing:
   - [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer)
-
-- Injection:
-  - [Dagger](https://github.com/google/dagger)
-  - [Koin](https://github.com/InsertKoinIO/koin) ✅
-  - [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI)
 
 - Java:
   - [Retrolambda](https://github.com/evant/gradle-retrolambda)
