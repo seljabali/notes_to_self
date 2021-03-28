@@ -216,3 +216,4 @@
   - [Utilities](https://github.com/petrnohejl/Android-Templates-And-Utilities)
   - [Codepath](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
   - [Mozilla's List](https://github.com/mozilla-mobile/android-components)
+  - [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md)
