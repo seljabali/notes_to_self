@@ -127,6 +127,7 @@
   - [AutoParse JSON](https://github.com/Workday/autoparse-json)
   - [Gson](https://github.com/google/gson)
   - [Klaxon](https://github.com/cbeust/klaxon)
+  - [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization)
 
 - Permissions:
   - [Dexter](https://github.com/Karumi/Dexter): Permission Helper
