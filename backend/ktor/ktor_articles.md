@@ -21,3 +21,4 @@
 - [Rsocket](https://rsocket.io/)
 - [Graphql Kotlin](https://expediagroup.github.io/graphql-kotlin/docs/)
 - [gRPC](https://grpc.io/docs/languages/kotlin/)
+- [Kmongo](https://github.com/Litote/kmongo)
