@@ -126,6 +126,7 @@
   - [Moshi](https://github.com/square/moshi): JSON library for Kotlin and Java. ✅
   - [AutoParse JSON](https://github.com/Workday/autoparse-json)
   - [Gson](https://github.com/google/gson)
+  - [Klaxon](https://github.com/cbeust/klaxon)
 
 - Permissions:
   - [Dexter](https://github.com/Karumi/Dexter): Permission Helper
