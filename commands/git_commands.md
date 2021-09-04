@@ -1,3 +1,9 @@
+## Update profile:
+```java
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+```
+
 ## Update default editor:
 
 ```java
