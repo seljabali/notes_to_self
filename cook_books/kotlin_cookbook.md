@@ -54,6 +54,8 @@ Covariant:
 
 # 4. Loops
 ```kotlin
+for (i in 1..10) print(i)
+
 for (index in 0 until stockPrices.size) {
 }
 
