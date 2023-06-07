@@ -2,7 +2,7 @@
 - [1. Constructors](#1-constructors)
 - [2. Getters & Setters](#2-getters-&-setters)
 - [3. Generics](#3-generics)
-- [4. Scopes](#4-loops)
+- [4. Loops](#4-loops)
 - [5. This](#5-this)
 - [6. Elvis Operator](#6-elvis-operator)
 
